@@ -1,4 +1,4 @@
-# 🐜 Ant Colony Algorithm for Word Sense Disambiguation
+# Ant Colony Algorithm for Word Sense Disambiguation
 
 ---
 
